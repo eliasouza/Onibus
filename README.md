@@ -1,2 +1,2 @@
-# Onibus
-Projeto de Engenharia de Software.
+# The bus
+A Software engineering project wich will be used.
